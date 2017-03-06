@@ -10,4 +10,8 @@ A set of tools for transforming data
 
 ## Run the tests
 
-`pytest polymorph/tests`
+`pytest`
+
+### With coverage
+
+`py.test --cov=polymorph`
